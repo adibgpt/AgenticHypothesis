@@ -1,9 +1,5 @@
 # AgenticHypothesis 🤖️
 
-## Applications
-
-### Autonomous Agent Task Solver Projects
-
 Open-source Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks.
 
 ![https://arxiv.org/abs/2309.07864](./images/LLM-based-Agents.png)
