@@ -1,25 +1,4 @@
-# AgenticHypothesis
-
-![image](https://github.com/adibgpt/AgenticHypothesis/blob/099986b548144bd5ae07b7bf615961f73441f31c/images/Exploring%20Scientific%20Hypothesis%20Generation%20with%20Mamba.png) 
-
-# Awesome-AI-Agents 🤖️
-
-
-- [Awesome-AI-Agents 🤖️](#awesome-ai-agents-️)
-  - [Applications](#applications)
-    - [Autonomous Agent Task Solver Projects](#autonomous-agent-task-solver-projects)
-    - [Multi-Agent Task Solver Projects](#multi-agent-task-solver-projects)
-    - [Agent Society Simulation](#agent-society-simulation)
-    - [Advanced Components](#advanced-components)
-  - [Frameworks](#frameworks)
-  - [Benchmark/Evaluator](#benchmarkevaluator)
-  - [Platforms/API](#platformsapi)
-  - [Related](#related)
-    - [Survey](#survey)
-    - [Paper-List Repo](#paper-list-repo)
-    - [Blog](#blog)
-  - [Reference Repo](#reference-repo)
-  - [公众号](#公众号)
+# AgenticHypothesis 🤖️
 
 ## Applications
 
