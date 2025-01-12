@@ -111,7 +111,6 @@ For more details, see the provided documentation and study-specific folders.
 
 
 
-Open-source Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks.
 
 ![https://arxiv.org/abs/2309.07864](./images/LLM-based-Agents.png)
 
@@ -131,15 +130,6 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [GenAgent](https://github.com/xxyQwQ/GenAgent) - Build Collaborative AI Systems with Automated Workflow Generation - Case Studies on ComfyUI ![GitHub Repo stars](https://img.shields.io/github/stars/xxyQwQ/GenAgent?style=social)
 - [MLE-agent](https://github.com/MLSysOps/MLE-agent) - Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. 🎆 Code RAG ![GitHub Repo stars](https://img.shields.io/github/stars/MLSysOps/MLE-agent?style=social)
 
-### Multi-Agent Task Solver Projects
-
-Open-source Large Language Model (LLM) driven Multi-Agent that can automatically solve various tasks.
-
-![](./images/multi-agent.png)
-
-- [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
-- [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
-- [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. ![GitHub Repo stars](https://img.shields.io/github/stars/kuafuai/DevOpsGPT?style=social)
 
 ### Agent Society Simulation
 
