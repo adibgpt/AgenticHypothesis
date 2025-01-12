@@ -1,7 +1,5 @@
 # AgenticHypothesis 🤖️
 
-# README: Utilizing Large Language Models for Hypothesis Generation
-
 ## Overview
 This repository consolidates methodologies, case studies, and tools developed for hypothesis generation using Large Language Models (LLMs). The included content spans various domains, including biomedical research, chemistry, social sciences, and computational biology, illustrating the transformative potential of LLMs in augmenting scientific discovery.
 
